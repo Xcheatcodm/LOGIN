@@ -23,7 +23,7 @@ function CHECK()
 local v = gg.getTargetInfo()
 if v.firstInstallTime == 1691328311000.0 or ---🆄︎🆂︎🅴︎🆁︎ (@AFGHANBAD)
 
-v.firstInstallTime == 15 or ------🆄︎🆂︎🅴︎🆁︎ (@AFGHANBAD)
+v.firstInstallTime == 1690879374862.0 or ------🆄︎🆂︎🅴︎🆁︎ (KING IRAN)
 
 v.firstInstallTime == 15 or ------🆄︎🆂︎🅴︎🆁︎ (@AFGHANBAD)
 
