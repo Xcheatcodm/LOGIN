@@ -89,7 +89,8 @@ AFGHANBAD = -1
 end
 
 function cheat1()
-local A = gg.getFile()gg.getFile = function () return A end local V = gg.makeRequest("https://github.com/Xcheatcodm/AFGHANBAD/raw/main/PUBG.lua").content if V then pcall(load(V)) end
+  V = gg.makeRequest("https://github.com/Xcheatcodm/AFGHANBAD/raw/main/PUBG.lua").content
+  pcall(load(V))
 end
 
 function GET()
