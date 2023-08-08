@@ -63,8 +63,8 @@ v.firstInstallTime == 15 then ---🆄︎🆂︎🅴︎🆁︎ (@AFGHANBAD)
 HOME()
 else
 HOME()
-end]]
 end
+end]]
 
 
 AFGHANBAD = 1
