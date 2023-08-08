@@ -111,7 +111,6 @@ print("🇦🇪SECURITY✌️EIGHT👉👉"..v.labelRes)]]
 gg.setVisible(true)
 os.exit()
 end
-end
 
 function EXIT()
 gg.alert("✍️OWNER \nGG LOGIN BY @AFGHANBAD") 
