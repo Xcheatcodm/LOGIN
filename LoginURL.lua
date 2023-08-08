@@ -4,7 +4,7 @@ print("ورود غیر مجاز")
 os.exit()
 end
 
-function setvalue(address,flags,value) local tt={} tt[1]={} tt[1].address=address tt[1].flags=flags tt[1].value=value gg.setValues(tt) end
+--[[function setvalue(address,flags,value) local tt={} tt[1]={} tt[1].address=address tt[1].flags=flags tt[1].value=value gg.setValues(tt) end
 
 local hex = {} function patch(lib,offset,edit,type) local ranges = gg.getRangesList(lib) local xy = {} xy[1] = {} xy[1].address = ranges[1].start + offset xy[1].flags = type xy[1].value = edit gg.setValues(xy) end
 
@@ -64,11 +64,12 @@ HOME()
 else
 HOME()
 end
-end
-gg.toast("GG LOGIN BY @AFGHANBAD")
+end]]
+
 
 AFGHANBAD = 1
-function HOME() ------------menu
+function HOME()
+gg.toast("GG LOGIN BY @AFGHANBAD")------------menu
 MN = gg.choice({
 "LOGIN SCRIPT",
 "EXIT",
