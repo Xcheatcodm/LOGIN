@@ -61,8 +61,8 @@ v.firstInstallTime == 15 or ------🆄︎🆂︎🅴︎🆁︎ (@AFGHANBAD)
 
 v.firstInstallTime == 15 then ---🆄︎🆂︎🅴︎🆁︎ (@AFGHANBAD)
 HOME()
-else
-GET()
+--[[else
+GET()]]
 end
 end
 gg.alert("GG LOGIN BY @AFGHANBAD")
