@@ -61,11 +61,11 @@ v.firstInstallTime == 15 or ------🆄︎🆂︎🅴︎🆁︎ (@AFGHANBAD)
 
 v.firstInstallTime == 15 then ---🆄︎🆂︎🅴︎🆁︎ (@AFGHANBAD)
 HOME()
---[[else
-GET()]]
+else
+HOME()
 end
 end
-gg.alert("GG LOGIN BY @AFGHANBAD")
+gg.toast("GG LOGIN BY @AFGHANBAD")
 
 AFGHANBAD = 1
 function HOME() ------------menu
