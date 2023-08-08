@@ -1,6 +1,6 @@
 if gg.PACKAGE == "com.afghanbad.gg" then
 else
-print("ورود غیر مجاز")
+print("ورود غیر مجاز ")
 os.exit()
 end
 
