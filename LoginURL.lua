@@ -1,6 +1,6 @@
 if gg.PACKAGE == "com.afghanbad.gg" then
 else
-print("ورود غیر مجاز ")
+print("ورود غیر مجاز")
 os.exit()
 end
 
@@ -95,10 +95,6 @@ end
 function GET()
 Result=gg.prompt({"ENTER YOU NAME ......"},nil,{"text"})
 local v = gg.getTargetInfo()
-if Result[1] == "666666" 
-then start()
-else
-local v = gg.getTargetInfo()
 print("DESIGN BY @AFGHANBAD")
 print("SELECT COPY AND SEND ME\nپایین کپی رو بزن بفرست بهم")
 print("USER INFO        👇👇👇👇👇")
@@ -121,8 +117,6 @@ function EXIT()
 gg.alert("✍️OWNER \nGG LOGIN BY @AFGHANBAD") 
 print(Time)
 print("OWNER :@AFGHANBAD")
-gg.skipRestoreState()
-gg.setVisible(true)
 os.exit()
 end
 
@@ -133,6 +127,6 @@ AFGHANBAD = 1
 gg.setVisible(false)
 end
 if AFGHANBAD == 1 then
-CHECK() 
+HOME() 
 end
 end
